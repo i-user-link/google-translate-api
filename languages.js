@@ -140,7 +140,7 @@ var langs = {
     'xh': 'Xhosa',
     'yi': 'Yiddish',
     'yo': 'Yoruba',
-    'zu': 'Zulu',
+    'zu': 'Zulu'
 };
 /**
  * Returns the ISO 639-1 code of the desiredLang – if it is supported by Google Translate
