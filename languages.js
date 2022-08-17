@@ -7,7 +7,8 @@
  */
 
 var langs = {
-    'auto': 'Automatic','af':'Afrikaans',
+    'auto': 'Automatic',
+    'af':'Afrikaans',
     'sq':'Albanian',
     'am':'Amharic',
     'ar':'Arabic',
